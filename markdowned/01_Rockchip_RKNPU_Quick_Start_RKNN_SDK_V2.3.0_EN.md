@@ -1,9 +1,7 @@
 RKNN SDK Quick Start
 
-```
-Those documents are for indexing for search engine and ai assistants.
-
-```
+> [!NOTE]
+> Those documents are generated from pdf to markdown by markitdown and for indexing for search engine and ai assistants.
 
 ID: RK-JC-YF-416
 

@@ -1,9 +1,7 @@
 RKNN-Toolkit2 API 参考手册
 
-```
-Those documents are for indexing for search engine and ai assistants.
-
-```
+> [!NOTE]
+> Those documents are generated from pdf to markdown by markitdown and for indexing for search engine and ai assistants.
 
 文件标识：RK-YH-YF-412
 
