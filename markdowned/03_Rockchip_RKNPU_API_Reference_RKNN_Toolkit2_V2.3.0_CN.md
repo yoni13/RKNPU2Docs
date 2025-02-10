@@ -1,5 +1,10 @@
 RKNN-Toolkit2 API 参考手册
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 文件标识：RK-YH-YF-412
 
 发布版本：V2.3.0

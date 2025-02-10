@@ -2,6 +2,11 @@ RKNN Compiler Support Operator
 List
 发布 v2.3.0
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 NPU 团队
 
 2024 年 11 月 04 日

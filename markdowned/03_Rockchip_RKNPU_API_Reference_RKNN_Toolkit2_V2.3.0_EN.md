@@ -1,5 +1,10 @@
 RKNN-Toolkit2 API Reference
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 ID: RK-YH-YF-412
 
 Release Version: V2.3.0

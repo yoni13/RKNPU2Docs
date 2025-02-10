@@ -1,5 +1,10 @@
 RKNN SDK Quick Start
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 ID: RK-JC-YF-416
 
 Release Version: V2.3.0

@@ -1,5 +1,10 @@
 RKNN SDK User Guide
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 ID: RK-KF-YF-417
 
 Release Version: V2.3.0

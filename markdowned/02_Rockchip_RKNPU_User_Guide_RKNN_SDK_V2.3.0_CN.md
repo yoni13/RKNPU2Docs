@@ -1,5 +1,10 @@
 RKNN SDK User Guide
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 文件标识：RK-KF-YF-417
 
 发布版本：V2.3.0

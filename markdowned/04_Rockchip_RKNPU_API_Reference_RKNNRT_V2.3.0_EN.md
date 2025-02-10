@@ -1,5 +1,10 @@
 RKNN C API Reference
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 ID: RK-YH-YF-413
 
 Release Version: V2.3.0

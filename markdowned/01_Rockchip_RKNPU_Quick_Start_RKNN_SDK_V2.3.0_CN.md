@@ -1,5 +1,10 @@
 RKNN SDK 快速上手指南
 
+```
+Those documents are for indexing for search engine and ai assistants.
+
+```
+
 文件标识：RK-JC-YF-416
 
 发布版本：V2.3.0
